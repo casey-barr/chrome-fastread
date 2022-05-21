@@ -7,8 +7,8 @@ browser extension for bionic reading
 
 # How to install
 
-1. git clone https://github.com/casey-barr/chrome-fastread.git
-2. Follow https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
+1. `git clone https://github.com/casey-barr/chrome-fastread.git`
+2. follow https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
 
 # Algorithm Specification
 Algorithm is customizable using a string similar to this:
