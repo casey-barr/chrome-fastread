@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/6392321/160298183-799a26ad-8435-4a9c-8171-e7b711cf4e47.mp4
+![wiki_image](https://raw.githubusercontent.com/casey-barr/chrome-fastread/main/images/fastread-sc.png?token=GHSAT0AAAAAABSF4GS4GHPNMHLOAMV2JMCUYUJNAUA)
 
 
 
