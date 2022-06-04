@@ -1,8 +1,6 @@
 ![wiki_image](https://raw.githubusercontent.com/casey-barr/chrome-fastread/main/images/fastread-sc.png?token=GHSAT0AAAAAABSF4GS4GHPNMHLOAMV2JMCUYUJNAUA)
 
 
-
-
 browser extension for bionic reading
 
 # How to install
